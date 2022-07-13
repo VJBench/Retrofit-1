@@ -1,0 +1,36 @@
+
+[INFO] 
+[INFO] --- maven-checkstyle-plugin:2.17:checkstyle (default) @ samples ---
+[INFO] Starting audit...
+Audit done.
+[WARNING] Unable to locate Source XRef to link to - DISABLED
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary for Retrofit (Parent) 2.4.1-SNAPSHOT:
+[INFO] 
+[INFO] Retrofit (Parent) .................................. SUCCESS [  2.625 s]
+[INFO] Retrofit ........................................... SUCCESS [ 13.742 s]
+[INFO] Adapters ........................................... SUCCESS [  0.101 s]
+[INFO] Adapter: Guava ..................................... SUCCESS [  1.266 s]
+[INFO] Adapter: Java 8 .................................... SUCCESS [  1.278 s]
+[INFO] Adapter: RxJava .................................... SUCCESS [  3.880 s]
+[INFO] Adapter: RxJava 2 .................................. SUCCESS [  4.099 s]
+[INFO] Adapter: Scala ..................................... SUCCESS [  1.903 s]
+[INFO] Converters ......................................... SUCCESS [  0.094 s]
+[INFO] Converter: Gson .................................... SUCCESS [  1.227 s]
+[INFO] Converter: Guava ................................... SUCCESS [  1.034 s]
+[INFO] Converter: Protocol Buffers ........................ SUCCESS [  1.675 s]
+[INFO] Converter: Jackson ................................. SUCCESS [  1.387 s]
+[INFO] Converter: Java 8 .................................. SUCCESS [  1.053 s]
+[INFO] Converter: Wire Protocol Buffers ................... SUCCESS [  1.122 s]
+[INFO] Converter: SimpleXML ............................... SUCCESS [  1.222 s]
+[INFO] Converter: Java Scalars ............................ SUCCESS [  1.099 s]
+[INFO] Converter: Moshi ................................... SUCCESS [  1.185 s]
+[INFO] Converter: JAXB .................................... SUCCESS [  2.027 s]
+[INFO] Retrofit Mock Adapter .............................. SUCCESS [  2.374 s]
+[INFO] Samples ............................................ SUCCESS [  1.366 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  45.865 s
+[INFO] Finished at: 2022-07-03T23:10:25-04:00
+[INFO] ------------------------------------------------------------------------
