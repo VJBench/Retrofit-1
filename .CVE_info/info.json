@@ -1,7 +1,7 @@
 {
     "buggy_file_path": "retrofit-converters/jaxb/src/main/java/retrofit2/converter/jaxb/JaxbResponseConverter.java",
     "buggy_method":[[33,36]],
-    "buggy_line":[[36]],
+    "buggy_line":[[35]],
     "bug_type": "insertion",
     "compile_cmd": "mvn clean compile",
     "test_cmd" : "mvn clean test",
